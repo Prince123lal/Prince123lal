@@ -1,41 +1,25 @@
 ## Hi there 👋
- Hi, I'm Prince Kumar
-🎓 Electrical Engineering Student at NIT Silchar
-💻 Aspiring Software Developer
-🚀 Interested in Software Development, Data & Technology
 
-🛠️ Tech Stack
-Languages
-C C++ Python JavaScript SQL
+I'm **Prince Kumar**, a final-year **Electrical Engineering** student at **NIT Silchar**.
+I work at the intersection of **power systems** and **software**: I like building
+engineering tools in code.
 
-Frameworks & Technologies
-Next.js Node.js Django FastAPI PostgreSQL Git GitHub
+### ⭐ Featured Projects
+- ⚡ **[Transformer Differential Relay (87T)](https://github.com/Prince123lal/transformer-differential-relay)**
+  Digital protection relay in Python: DFT phasor estimation, Dyn11 compensation,
+  biased characteristic, inrush blocking, CT-saturation detection (8/8 tests pass)
+- 🧵 **[Custom Multi-threading Library](https://github.com/Prince123lal/Custom-Multi-threading-library)**
+- 🎉 **[College Fest Management](https://github.com/Prince123lal/College-Fest-Management)**
 
-🚀 What I'm Working On
-🔥 Improving my Data Structures & Algorithms skills
-💻 Building full-stack projects
-🗄️ Learning SQL and backend development
-☁️ Exploring cloud technologies
-📚 Continuously learning and improving
-📊 GitHub Stats
-Prince's GitHub Stats
+### 🔌 Electrical
+Power system protection · Transformers · Power quality & harmonics · MATLAB/Simulink
 
-Top Languages
+### 💻 Software
+C · C++ · Python (NumPy, SciPy) · JavaScript · SQL
+Next.js · Node.js · Django · FastAPI · PostgreSQL · Git
 
-📫 Connect With Me
-GitHub
+### 🚀 Currently
+Building power-system simulation projects · Practising DSA
 
-<!--
-**Prince123lal/Prince123lal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/prince-kumar-59092931a/)
